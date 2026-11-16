@@ -1,16 +1,11 @@
-# Publish this folder on GitHub
+# Published GitHub repository
 
-This package is ready to upload, but it has not been published to a GitHub account. Sign in to GitHub and create a repository named `wine-quality-eda`. Choose the visibility required by your instructor. If the repository must be public, review the files first because the notebook header contains your course email.
+This project is published publicly at https://github.com/balazii/wine-quality-eda.
 
-From this folder, run:
+Clone the repository with:
 
 ```bash
-git init
-git add .
-git commit -m "Add Wine Quality: Comparative Exploratory Data Analysis project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/wine-quality-eda.git
-git push -u origin main
+git clone https://github.com/balazii/wine-quality-eda.git
 ```
 
-If Git asks for a commit identity, set it for this repository only. For public repositories, prefer the GitHub-provided `noreply` email if you do not want your school email exposed in commit history.
+The notebook header includes the student email supplied for this assignment. Because the repository is public, that address is visible to anyone.
